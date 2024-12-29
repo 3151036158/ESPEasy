@@ -39,7 +39,7 @@ excludeBuilds = {'DEVELOPMENT', 'RETIRED'}
 
 # Plugins not included
 excludePlugins = {
-  'CLIMATE': {'P007', 'P008', 'P009', 'P017', 'P022', 'P027', 'P030', 'P035', 'P040', 'P041', 'P042', 'P045'},
+  'CLIMATE': {'P007', 'P008', 'P009', 'P017', 'P022', 'P027', 'P030', 'P035', 'P040', 'P041', 'P042'},
   'DISPLAY': {'P070'},
   'MAX': {'P089'},
   # 'NEOPIXEL': {''},
